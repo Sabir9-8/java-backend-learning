@@ -3,6 +3,7 @@
 **/bin/
 **/build/
 **/*.class
+**/db.properties
 
 # Package files
 **/*.jar
