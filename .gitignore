@@ -1,1 +1,21 @@
+# Compiled class files & build directories
+**/target/
+**/bin/
+**/build/
+**/*.class
+
+# Package files
+**/*.jar
+**/*.war
+
+# IDE specific files
+**/.settings/
+**/.classpath
+**/.project
+**/.factorypath
+**/.idea/
+**/*.iml
+**/.vscode/
+
+# OS files
 .DS_Store
